@@ -37,4 +37,9 @@ Class Solution
         else return 0;
     }
 
+    public float random(int x, int y)
+    {
+        return (x/y)*(x-y);
+    }
+
 }
