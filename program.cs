@@ -60,4 +60,10 @@ Class Solution
         return k-l;
     }
 
+    public void task(bool p)
+    {
+        if(p==true)Console.Write("do task");
+        if(p==false)Console.Write("don't do the task");
+    }
+
 }
