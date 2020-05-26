@@ -16,12 +16,17 @@ Class Solution
     
     public int Add(int x, int y)
     {
-        return x+y;
+        pass;
     }
     
     public int Subtraction(int x, int y)
     {
         return x-y;
+    }
+    
+    public int Divison(int x, int y)
+    {
+        return x/y;
     }
 
 }
