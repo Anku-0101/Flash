@@ -42,4 +42,14 @@ Class Solution
         return (x/y)*(x-y);
     }
 
+    public void doSomething()
+    {
+        int p = 2;
+        while(p>0)
+        {
+            Console.Write("World peace");
+            p--;
+        }
+    }
+
 }
