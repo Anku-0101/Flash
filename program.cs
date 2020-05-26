@@ -52,4 +52,12 @@ Class Solution
         }
     }
 
+    public int method(int k, int l)
+    {
+        k = k*2;
+        l = l/2;
+
+        return k-l;
+    }
+
 }
