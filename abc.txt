@@ -1,4 +1,5 @@
 I am using this text file to learn git.
+I am making some changes now:
 I am trying to learn various git diff commands and git merge commands.
-I will master git as soon as possible.
+I will master git now.
 That being said let's start working on git.
