@@ -60,4 +60,9 @@ Class Solution
         return k-l;
     }
 
+    public void Method2do(float x)
+    {
+        int y = x ;
+    }
+
 }
