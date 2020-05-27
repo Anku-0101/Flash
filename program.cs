@@ -70,9 +70,4 @@ Class Solution
         console.WriteLine(s);
     }
 
-    private methodToPerformReset()
-    {
-        bool resetdone = true;
-    }
-
 }
