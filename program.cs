@@ -65,4 +65,9 @@ Class Solution
         int y = x ;
     }
 
+    public mymethod(string s )
+    {
+        console.WriteLine(s);
+    }
+
 }
