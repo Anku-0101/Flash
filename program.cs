@@ -62,7 +62,7 @@ Class Solution
 
     public void Method2do(float x)
     {
-        int y = x ;
+        return;
     }
 
     public mymethod(string s )
