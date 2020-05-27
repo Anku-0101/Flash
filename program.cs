@@ -60,10 +60,9 @@ Class Solution
         return k-l;
     }
 
-    public void task(bool p)
+    public void Method2do(float x)
     {
-        if(p==true)Console.Write("do task");
-        if(p==false)Console.Write("don't do the task");
+        int y = x ;
     }
 
 }
